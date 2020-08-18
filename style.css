@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  font-family:'Times New Roman', Times, serif;
+}
+
+.about {
+  border: 2px solid olive;
+  margin-bottom: 5%;
+}
+
+.projects {
+    border: 2px solid teal;
+}
+
+ul {
+  max-width: 60%;
+  margin-left: auto;
+}
+
+
+li {
+  max-width: 100px;
+}
